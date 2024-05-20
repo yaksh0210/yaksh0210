@@ -4,19 +4,21 @@
 
 ###
 
-<p align="left">Hello !! <br><br>Myself Yaksh Rawal <br><br>As a burgeoning DevOps Engineer at Einfochips, I am fervently dedicated to honing my skills and contributing meaningfully to the company's objectives. Embarking on this journey as a trainee, I am committed to leveraging my foundational knowledge in DevOps methodologies to drive efficiency and innovation across the organization.<br><br>With a keen eye for detail and a passion for problem-solving, I immerse myself in the intricacies of the DevOps landscape, continuously seeking opportunities to streamline processes, optimize workflows, and enhance collaboration between development and operations teams.<br><br>My proactive approach to learning, coupled with a strong work ethic, empowers me to adapt swiftly to new technologies and methodologies, ensuring that I remain at the forefront of industry trends and best practices.<br><br>As I navigate the dynamic realm of DevOps at Einfochips, I am driven by a steadfast determination to excel, to contribute meaningfully to the company's success, and to cultivate a culture of continuous improvement.</p>
+<p align="left">Hello , Myself Yaksh Rawal <br><br>About Me:<br><br>As a fresher DevOps Engineer at Einfochips, I'm dedicated to learning and contributing as a trainee. With a focus on streamlining processes and fostering collaboration, I aim to leverage my skills to drive efficiency and innovation within the company. Committed to staying abreast of industry trends, I strive to adapt swiftly and excel in this dynamic role.</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaksh0210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yaksh0210&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=yaksh0210&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaksh0210&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
+  <img src="https://streak-stats.demolab.com?user=yaksh0210&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=yaksh0210&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaksh0210&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/yaksh0210/yaksh0210/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h3 align="left">DevOps Tools<br>____________________________</h3>
