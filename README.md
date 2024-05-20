@@ -17,7 +17,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yaksh0210/yaksh0210/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/yaksh0210/yaksh0210/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
