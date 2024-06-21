@@ -51,7 +51,8 @@
 <h3 align="left">Database<br>____________________________</h3>
 
 ###
-
+|Mysql|Postgres|Oracle|
+|
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="15" />
@@ -59,7 +60,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
 </div>
-
+|
 ###
 
 <h3 align="left">OS<br>____________________________</h3>
@@ -84,3 +85,7 @@
 </div>
 
 ###
+
+
+
+
