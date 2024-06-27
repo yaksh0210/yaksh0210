@@ -93,7 +93,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif"  />
+  <img height="350" src="https://imgs.search.brave.com/JsqkQbtgsk7BRwHM3-lvWnklbFs18rpE3sqFlHoraw4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29udHJhc3RzZWN1/cml0eS5jb20vaHMt/ZnMvaHViZnMvaW1h/Z2VzL0Rldk9wcyUy/MFNvbHV0aW9ucy9k/ZXZvcHMtY3Mtd2F5/LmdpZj93aWR0aD0x/MzIyJm5hbWU9ZGV2/b3BzLWNzLXdheS5n/aWY.gif"  />
 </div>
 
 ###
