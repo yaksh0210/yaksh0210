@@ -1,5 +1,9 @@
+<img align="left" height="180" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"  />
+
+###
+
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"  />
+  <img height="200" src="https://imgs.search.brave.com/JsqkQbtgsk7BRwHM3-lvWnklbFs18rpE3sqFlHoraw4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29udHJhc3RzZWN1/cml0eS5jb20vaHMt/ZnMvaHViZnMvaW1h/Z2VzL0Rldk9wcyUy/MFNvbHV0aW9ucy9k/ZXZvcHMtY3Mtd2F5/LmdpZj93aWR0aD0x/MzIyJm5hbWU9ZGV2/b3BzLWNzLXdheS5n/aWY.gif"  />
 </div>
 
 ###
@@ -88,12 +92,6 @@
   <img src="https://streak-stats.demolab.com?user=yaksh0210&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaksh0210&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=yaksh0210&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="350" src="https://imgs.search.brave.com/JsqkQbtgsk7BRwHM3-lvWnklbFs18rpE3sqFlHoraw4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29udHJhc3RzZWN1/cml0eS5jb20vaHMt/ZnMvaHViZnMvaW1h/Z2VzL0Rldk9wcyUy/MFNvbHV0aW9ucy9k/ZXZvcHMtY3Mtd2F5/LmdpZj93aWR0aD0x/MzIyJm5hbWU9ZGV2/b3BzLWNzLXdheS5n/aWY.gif"  />
 </div>
 
 ###
