@@ -81,7 +81,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="50" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
 </div>
 
 ###
